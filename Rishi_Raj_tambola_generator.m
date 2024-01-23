@@ -1,3 +1,5 @@
+%Name : Rishi Raj
+%College : Indian Institute Of Information Technolgy , Nagpur
 %write a matlab programme generate tambola ticket
 %created by : BT21ece077
 %date  : 23-01-2023
